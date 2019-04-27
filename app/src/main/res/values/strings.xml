@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FlowExample</string>
+    <string name="some_text">Some Text</string>
+    <string name="linear_layout">LinearLayout</string>
+    <string name="constraint_layout">ConstraintLayout</string>
+    <string name="flow">Flow</string>
 </resources>
